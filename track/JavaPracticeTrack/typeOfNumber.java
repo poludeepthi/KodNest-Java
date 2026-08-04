@@ -10,5 +10,6 @@ class typeOfNumber {
         } else {
             System.out.println("The number is zero");
         }
+
     }
 }
