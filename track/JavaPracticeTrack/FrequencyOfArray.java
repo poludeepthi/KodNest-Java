@@ -18,6 +18,6 @@ class Freq {
                 count++;
             }
         }
-        System.out.println(key + " is repeated " + count + "times");
+        System.out.println(key + " is repeated " + count + " times");
     }
 }
